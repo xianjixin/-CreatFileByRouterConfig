@@ -1,0 +1,16 @@
+{
+  "name": "auto-creat-file-by-path",
+  "version": "1.0.4",
+  "main": "./index.js",
+  "license": "MIT",
+  "description": "根据路径自动创建文件",
+  "devDependencies": {
+    "@babel/parser": "^7.5.5",
+    "@babel/traverse": "^7.5.5",
+    "@babel/types": "^7.5.5",
+    "@types/babel-traverse": "^6.25.5",
+    "@types/babel-types": "^7.0.7",
+    "@types/webpack": "^4.39.1",
+    "webpack": "^4.39.3"
+  }
+}
